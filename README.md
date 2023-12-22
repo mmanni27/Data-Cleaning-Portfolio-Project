@@ -1,0 +1,1 @@
+This project cleans a raw excel file of Nashville Housing Data using SQL. Cleaning involved standardizing the date format and other columns, populating address data, separating address data into fields: address, city, and state, and involved removing duplicates and unused columns.
